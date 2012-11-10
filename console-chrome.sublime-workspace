@@ -1,0 +1,1381 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"padding",
+				"padding-top"
+			],
+			[
+				"mar",
+				"margin-left"
+			],
+			[
+				"border",
+				"border-top"
+			],
+			[
+				"pa",
+				"padding-top"
+			],
+			[
+				"text",
+				"text-transform"
+			],
+			[
+				"le",
+				"letter-spacing"
+			],
+			[
+				"up",
+				"uppercase"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"font-",
+				"font-family"
+			],
+			[
+				"rem",
+				"removeStorage"
+			],
+			[
+				"json",
+				"json_decode"
+			],
+			[
+				"var",
+				"var_dump"
+			],
+			[
+				"auth",
+				"authorize"
+			],
+			[
+				"get",
+				"getURLParameter"
+			],
+			[
+				"clien",
+				"client_id"
+			],
+			[
+				"o",
+				"oauth"
+			],
+			[
+				"au",
+				"authorize_url"
+			],
+			[
+				"cos",
+				"consumer_key"
+			],
+			[
+				"request",
+				"request_url"
+			],
+			[
+				"use",
+				"user-menu-avatar"
+			],
+			[
+				"line",
+				"line-height"
+			],
+			[
+				"ti",
+				"timer"
+			],
+			[
+				"or",
+				"org-product-wrapper"
+			],
+			[
+				"pro",
+				"product-details"
+			],
+			[
+				"fon",
+				"font-style"
+			],
+			[
+				"cus",
+				"custom-table-wrapper"
+			],
+			[
+				"user-",
+				"user-menu-links"
+			],
+			[
+				"user",
+				"user-menu-links"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"d",
+				"display"
+			],
+			[
+				"tra",
+				"transparent"
+			],
+			[
+				"dropd",
+				"dropdown-arrow"
+			],
+			[
+				"text-",
+				"text-shadow"
+			],
+			[
+				"device",
+				"device-extra-cell"
+			],
+			[
+				"border-",
+				"border-bottom"
+			],
+			[
+				"device-",
+				"device-extra-pointer"
+			],
+			[
+				"bor",
+				"border-top"
+			],
+			[
+				"bac",
+				"background"
+			],
+			[
+				"js-device-e",
+				"js-device-extra"
+			],
+			[
+				"de",
+				"device"
+			],
+			[
+				"devi",
+				"deviceExtra"
+			],
+			[
+				"dev",
+				"deviceExtra"
+			],
+			[
+				"con",
+				"controlledRow"
+			],
+			[
+				"contr",
+				"controlledRowWidth"
+			],
+			[
+				"no",
+				"nowrap"
+			],
+			[
+				"wh",
+				"white-space"
+			],
+			[
+				"js",
+				"js-device-open"
+			],
+			[
+				"fin",
+				"finalTop"
+			],
+			[
+				"view",
+				"viewerPointer"
+			],
+			[
+				"point",
+				"pointerTop"
+			],
+			[
+				"target",
+				"targetTop"
+			],
+			[
+				"tabe",
+				"tableHeaderHeight"
+			],
+			[
+				"tar",
+				"targetTop"
+			],
+			[
+				"anima",
+				"animationSpeed"
+			],
+			[
+				"an",
+				"animationSpeed"
+			],
+			[
+				"ta",
+				"tableHeaderHeight"
+			],
+			[
+				"tab",
+				"tableHeaderHeight"
+			],
+			[
+				"vi",
+				"viewerAnimationSpeed"
+			],
+			[
+				"tags",
+				"tagsRowWidthFull"
+			],
+			[
+				"tag",
+				"tagsRow"
+			],
+			[
+				"ht",
+				"html"
+			],
+			[
+				"set",
+				"setValues"
+			],
+			[
+				"js-",
+				"js-viewer-open"
+			],
+			[
+				"re",
+				"relative"
+			],
+			[
+				"b",
+				"BORDERED"
+			],
+			[
+				"vie",
+				"viewer"
+			],
+			[
+				"feed",
+				"feedID"
+			],
+			[
+				"logi",
+				"login-logo"
+			],
+			[
+				"bu",
+				"buttonText"
+			],
+			[
+				"but",
+				"buttonText"
+			],
+			[
+				"load",
+				"loadingText"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"to",
+				"toggleLoading"
+			],
+			[
+				"cls",
+				"closest"
+			],
+			[
+				"se",
+				"settings"
+			],
+			[
+				"msg",
+				"msgEl"
+			],
+			[
+				"data",
+				"data-loading"
+			],
+			[
+				"ad",
+				"addClass"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"hel",
+				"help-block"
+			],
+			[
+				"toHave",
+				"toHaveClass"
+			],
+			[
+				"remove",
+				"removeClass"
+			],
+			[
+				"org-pr",
+				"org-product-new"
+			],
+			[
+				"pr",
+				"primary"
+			],
+			[
+				"org",
+				"org-product"
+			],
+			[
+				"devices-table",
+				"devices-table-search"
+			],
+			[
+				"paddig",
+				"padding-top"
+			],
+			[
+				"team",
+				"team-subsection-title"
+			],
+			[
+				"team-",
+				"team-member-avatar"
+			],
+			[
+				"tea",
+				"team-member-name"
+			],
+			[
+				"team-secti",
+				"team-section-title-aid"
+			],
+			[
+				"team-sec",
+				"team-section-title"
+			],
+			[
+				"ma",
+				"margin-bottom"
+			],
+			[
+				"jobs-",
+				"jobs-item-link"
+			],
+			[
+				"backgro",
+				"background"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"box",
+				"box-shadow"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"drop",
+				"dropdown-menu"
+			],
+			[
+				"organz",
+				"organization-name"
+			],
+			[
+				"gra",
+				"gray"
+			],
+			[
+				"gray",
+				"grayDark"
+			],
+			[
+				"orga",
+				"organization-menu-item"
+			],
+			[
+				"organizat",
+				"organization-menu-button"
+			],
+			[
+				"hard",
+				"hardware-item"
+			],
+			[
+				"supp",
+				"support-page"
+			],
+			[
+				"hardware",
+				"hardware-item"
+			],
+			[
+				"max",
+				"max-height"
+			],
+			[
+				"bo",
+				"border-top"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"hardwa",
+				"hardware-item-description"
+			],
+			[
+				"margi",
+				"margin-left"
+			],
+			[
+				"hardw",
+				"hardware-item-image"
+			],
+			[
+				"clea",
+				"clear"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"he",
+				"height"
+			],
+			[
+				"datastream",
+				"datastream-graph"
+			],
+			[
+				"wid",
+				"width"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 1444,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "css/style.css",
+			"settings":
+			{
+				"buffer_size": 4330,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "js/script.js",
+			"settings":
+			{
+				"buffer_size": 869,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "background.js",
+			"settings":
+			{
+				"buffer_size": 1183,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 47.0,
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"jquery on",
+				"Snippet: jQuery on handler"
+			],
+			[
+				"jquery",
+				"Snippet: jQuery.each"
+			],
+			[
+				"$",
+				"Snippet: $('#select DOM Element')"
+			],
+			[
+				"",
+				"Snippet: $('#select DOM Element')"
+			],
+			[
+				"for",
+				"Snippet: form - Placeholder"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 593.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/pete/work/hackday/console-chrome/callback.js",
+		"/Users/pete/work/hackday/console-chrome/js/script.js",
+		"/Users/pete/work/hackday/console-chrome/fonts/leaguegothic-regular-webfont.ttf",
+		"/Users/pete/work/hackday/cosm-chrome/index.html",
+		"/Users/pete/work/hackday/console-chrome/background.js",
+		"/Users/pete/work/hackday/console-chrome/index.html",
+		"/Users/pete/work/hackday/cosm-chrome/css/style.css",
+		"/Volumes/petecorreia.com/cosm-chrome/broauth.php",
+		"/Users/pete/work/hackday/console-chrome/fonts/OFL.txt",
+		"/Users/pete/work/hackday/console-chrome/manifest.json",
+		"/Users/pete/work/hackday/console-chrome/options.html",
+		"/Volumes/petecorreia.com/wp-content/themes/summer-2012/assets/js/main.js",
+		"/Volumes/petecorreia.com/wp-content/themes/summer-2012/assets/js/plugins.js",
+		"/Volumes/petecorreia.com/wp-content/themes/summer-2012/gallery.php",
+		"/Volumes/petecorreia.com/.htaccess",
+		"/Users/pete/work/hackday/console-chrome/js/cosmjs-1.0.0.js",
+		"/Users/pete/work/hackday/console-chrome/js/jquery.min.js",
+		"/Users/pete/work/hackday/console-chrome/chrome_ex_oauth.html",
+		"/Users/pete/work/hackday/console-chrome/chrome_ex_oauth.js",
+		"/Users/pete/work/hackday/console-chrome/css/style.css",
+		"/Volumes/DDS/work/connect/app/views/products/show.html.erb",
+		"/Volumes/DDS/work/connect/app/views/devices/new.html.erb",
+		"/Volumes/DDS/work/connect/app/views/home/index.html.erb",
+		"/Volumes/DDS/work/connect/app/views/mantle/_device.html.erb",
+		"/Volumes/DDS/work/cosmui/vendor/assets/stylesheets/cosmui/elements/_buttons.scss",
+		"/Volumes/DDS/work/cosmui/vendor/assets/stylesheets/cosm-connect/layouts/_app-header.scss",
+		"/Volumes/DDS/work/cosmui/vendor/assets/javascripts/cosmui/cosmui.buttons.js",
+		"/Volumes/DDS/work/cosmui/vendor/assets/stylesheets/cosm-connect/layouts/_app-sidebar.scss",
+		"/Volumes/DDS/work/cosmui/vendor/assets/stylesheets/cosm-connect/elements/_box.scss",
+		"/Volumes/DDS/work/cosmui/vendor/assets/stylesheets/cosm-connect/layouts/_organization.scss",
+		"/Volumes/DDS/work/cosmui/.sass-cache/ac9f6a6e44b23dc29062f41d3ac96a20cd61fde1/_app-sidebar.scssc",
+		"/Volumes/DDS/work/cosmui/docs/cosm-connect/login.html",
+		"/Volumes/DDS/work/cosmui/docs/cosm-connect/organization.html",
+		"/Volumes/DDS/work/cosmui/docs/cosm-connect/organization-empty.html",
+		"/Volumes/DDS/work/cosmui/spec/javascripts/ValidationSpec.js",
+		"/Volumes/DDS/work/cosmui/spec/javascripts/ButtonsSpec.js",
+		"/Volumes/DDS/work/cosmui/vendor/assets/javascripts/cosm-connect.js",
+		"/Volumes/DDS/work/cosmui/vendor/assets/stylesheets/cosm-connect/elements/_custom-table.scss",
+		"/Volumes/DDS/work/cosmui/docs/layouts.html",
+		"/Volumes/DDS/work/cosmui/vendor/assets/stylesheets/cosm-connect/layouts/_login.scss",
+		"/Volumes/DDS/work/cosmui/vendor/assets/javascripts/cosmui/cosmui.validation.js",
+		"/Volumes/DDS/work/connect/app/views/layouts/login.html.erb",
+		"/Volumes/DDS/work/cosmui/docs/cosm-connect/product-devices.html",
+		"/Volumes/DDS/work/cosmui/vendor/assets/stylesheets/cosmui/_helpers.scss",
+		"/Volumes/DDS/work/cosmui/docs/cosm-connect/product-devices-new.html",
+		"/Volumes/DDS/work/cosmui/docs/cosm-connect/product-settings.html",
+		"/Volumes/DDS/work/cosmui/docs/cosm-connect/product-devices-empty.html",
+		"/Volumes/DDS/work/cosmui/docs/cosm-connect/admin-products.html",
+		"/Volumes/DDS/work/cosmui/docs/cosm-connect/admin-organizations.html",
+		"/Volumes/DDS/work/cosmui/docs/cosm-connect/users.html",
+		"/Volumes/DDS/work/cosmui/docs/cosm-connect/users-new.html",
+		"/Volumes/DDS/work/cosmui/docs/cosm-connect/users-edit.html",
+		"/Volumes/DDS/work/cosmui/docs/cosm-connect/organization-edit.html",
+		"/Volumes/DDS/work/cosmui/docs/cosm-connect/organization-new.html",
+		"/Volumes/DDS/work/cosmui/docs/cosm-connect/app-frame.html",
+		"/Volumes/DDS/work/cosmui/vendor/assets/stylesheets/cosm-connect/components/_dropdowns.scss",
+		"/Volumes/DDS/work/cosmui/vendor/assets/stylesheets/cosm-connect/layouts/_app-global.scss",
+		"/Volumes/DDS/work/cosmui/vendor/assets/stylesheets/cosm-connect/elements/_buttons-extensions.scss",
+		"/Volumes/DDS/work/cosmui/vendor/assets/stylesheets/cosm-connect/elements/_forms.scss",
+		"/Volumes/DDS/work/cosmui/vendor/assets/stylesheets/cosmui/_color-scheme.scss",
+		"/Volumes/DDS/work/cosmui/vendor/assets/stylesheets/cosmui/elements/_icons.scss",
+		"/Volumes/DDS/work/cosmui/vendor/assets/stylesheets/cosm-connect/layouts/_app-content.scss",
+		"/Volumes/DDS/work/cosmui/vendor/assets/stylesheets/cosmui/elements/_tables.scss",
+		"/Volumes/DDS/work/cosmui/vendor/assets/stylesheets/cosm-connect/objects/_device-viewer.scss",
+		"/Volumes/DDS/work/cosmui/vendor/assets/stylesheets/cosm-connect.scss",
+		"/Volumes/DDS/work/cosmui/wireframes/device-management/devices.html",
+		"/Volumes/DDS/work/connect/app/assets/javascripts/application.js",
+		"/Volumes/DDS/work/connect/app/views/login/new.html.erb",
+		"/Volumes/DDS/work/cosmui/vendor/assets/stylesheets/cosmui/adaptive/_width-880.scss",
+		"/Volumes/DDS/work/cosmui/vendor/assets/stylesheets/cosmui/adaptive/_width-615.scss",
+		"/Volumes/DDS/work/cosmui/vendor/assets/stylesheets/cosmui/adaptive/_width-520.scss",
+		"/Volumes/DDS/work/cosmui/vendor/assets/stylesheets/cosmui/layouts/_homepage.scss",
+		"/Volumes/DDS/work/cosmui/vendor/assets/stylesheets/cosmui/adaptive/_width-755.scss",
+		"/Volumes/DDS/work/pachweb/tmp/cache/sass/1c348e422b6c65dbf78c89b9e8676668eaa5190b/_width-880.scssc",
+		"/Volumes/DDS/work/airqualityegg.com/views/sass-partials/layouts/_home.scss",
+		"/Volumes/DDS/work/airqualityegg.com/views/sass-partials/elements/_buttons.scss",
+		"/Volumes/DDS/work/cosmui/.sass-cache/d1f69a24f227bfcebda343468cc6f85c50021a6f/_buttons.scssc",
+		"/Volumes/DDS/work/pachweb/app/assets/javascripts/application.js",
+		"/Volumes/DDS/work/cosmui/spec/javascripts/fixtures/validation.fixture.html",
+		"/Volumes/DDS/work/cosmui/vendor/assets/javascripts/cosmui/cosmui.js",
+		"/Volumes/DDS/work/cosmui/spec/javascripts/helpers/SpecHelper.js",
+		"/Volumes/DDS/work/cosmui/spec/javascripts/ModalSpec.js",
+		"/Volumes/DDS/work/cosmui/spec/javascripts/fixtures/buttons.fixture.html",
+		"/Volumes/DDS/work/cosmui/spec/javascripts/support/jasmine.yml",
+		"/Volumes/DDS/work/cosmui/spec/javascripts/HintsSpec.js",
+		"/Volumes/DDS/work/cosmui/docs/cosm-connect/login-error.html",
+		"/Volumes/DDS/work/cosmui/docs/layouts/jobs.html",
+		"/Volumes/DDS/work/cosmui/vendor/assets/stylesheets/cosmui/layouts/_team.scss",
+		"/Volumes/DDS/work/cosmui/docs/layouts/team.html",
+		"/Volumes/DDS/work/cosmui/vendor/assets/javascripts/cosmui/cosmui.modal.js",
+		"/Volumes/DDS/work/pachweb/public/vendor/assets/javascripts/cosm-connect.js",
+		"/Volumes/DDS/work/cosmui/vendor/assets/javascripts/cosmui/cosmui.loading.js",
+		"/Users/pete/Library/Application Support/Sublime Text 2/Packages/User/Default (OSX).sublime-keymap",
+		"/Volumes/DDS/work/airqualityegg.com/public/assets/js/main.js",
+		"/Volumes/DDS/work/cosmui/vendor/assets/stylesheets/cosmui/_reset.scss",
+		"/Volumes/DDS/work/cosmui/vendor/assets/stylesheets/cosmui/layouts/_api-keys.scss",
+		"/Volumes/DDS/work/cosmui/vendor/assets/stylesheets/cosm-connect/layouts/_devices-new.scss",
+		"/Volumes/DDS/work/cosmui/docs/cosm-connect/devices-empty.html",
+		"/Volumes/DDS/work/cosmui/vendor/assets/stylesheets/cosm-connect/components/_tooltips.scss",
+		"/Volumes/DDS/work/cosmui/vendor/assets/javascripts/cosmui/cosmui.plugins.js",
+		"/Volumes/DDS/work/cosmui/vendor/assets/stylesheets/cosmui/components/_tooltips.scss",
+		"/Volumes/DDS/work/cosmui/spec/javascripts/TogglerSpec.js",
+		"/Volumes/DDS/work/cosmui/spec/javascripts/fixtures/hints.fixture.html",
+		"/Volumes/DDS/work/connect/app/views/mantle/_product.html.erb",
+		"/Volumes/DDS/work/cosmui/docs/cosm-connect/devices.html",
+		"/Volumes/DDS/work/cosmui/vendor/assets/stylesheets/cosm-connect/components/_alerts.scss",
+		"/Volumes/DDS/work/cosmui/vendor/assets/stylesheets/cosmui/components/_alerts.scss",
+		"/Users/pete/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/Volumes/DDS/work/cosmui/lib/cosmui/rails/version.rb",
+		"/Volumes/DDS/work/cosmui/vendor/assets/stylesheets/docs-cosmui.scss",
+		"/Volumes/DDS/work/cosmui/vendor/assets/stylesheets/cosmui/elements/_boxes.scss",
+		"/Volumes/DDS/work/cosmui/docs/layouts/console.html",
+		"/Volumes/DDS/work/cosmui/vendor/assets/stylesheets/cosmui/_grid.scss",
+		"/Volumes/DDS/work/cosmui/vendor/assets/stylesheets/cosmui.scss",
+		"/Volumes/DDS/work/cosmui/vendor/assets/stylesheets/cosmui/layouts/_foundation.scss",
+		"/Volumes/DDS/work/cosmui/vendor/assets/stylesheets/cosmui/_layouts.scss",
+		"/Volumes/DDS 2/work/cosmui/vendor/assets/stylesheets/cosm-connect.scss",
+		"/Volumes/DDS 2/work/cosmui/vendor/assets/stylesheets/cosmui/_color-scheme.scss",
+		"/Volumes/DDS 2/work/cosmui/vendor/assets/stylesheets/cosm-connect/elements/_buttons-extensions.scss",
+		"/Volumes/DDS 2/work/cosmui/vendor/assets/stylesheets/cosm-connect/elements/_custom-table.scss",
+		"/Volumes/DDS 2/work/airqualityegg.com/views/sass-partials/elements/_buttons.scss",
+		"/Volumes/DDS 2/work/cosmui/vendor/assets/stylesheets/cosmui/elements/_buttons.scss",
+		"/Volumes/DDS 2/work/cosmui/vendor/assets/stylesheets/cosm-connect/elements/_buttons.scss",
+		"/Volumes/DDS/work/connect/app/views/layouts/application.html.erb",
+		"/Volumes/DDS/work/cosmui/vendor/assets/stylesheets/cosmui/elements/_circles.scss",
+		"/Volumes/DDS/work/cosmui/vendor/assets/stylesheets/cosmui/layouts/_header.scss",
+		"/Volumes/DDS/work/cosmui/vendor/assets/javascripts/cosmui/cosmui.dropdown.js",
+		"/Volumes/DDS/work/cosmui/vendor/assets/stylesheets/docs.scss"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"Dosis",
+			"onRequestToken",
+			"getRequestToken",
+			"initO",
+			"consumer",
+			"getRequestToken",
+			"initOAuthFlow",
+			"console",
+			"initOAuth",
+			"onLoad",
+			"console.log",
+			"initOAuth",
+			"authorize",
+			"top",
+			"button-leveled ",
+			"button-leveled",
+			"<div class=\"device-extra-pointer\"></div>",
+			"js-device-extra-toggle",
+			"device-viewer",
+			"serial",
+			"extra-pointer",
+			"device-extra-cell-inner grid-row\">",
+			"grid-3",
+			"viewer",
+			"js-device-viewer-toggle",
+			"restr",
+			"compact",
+			"tagsrow",
+			"cell-inner",
+			"compact",
+			"thead",
+			"<td class=\"devices-table-tags\">",
+			"\"devices-table-tags\">(.*?)<",
+			"methods",
+			"48",
+			"sidebar",
+			"home",
+			"featu",
+			"home-index",
+			"login",
+			"debug",
+			"loading",
+			"toggleLoad",
+			"validate",
+			"console",
+			"f.",
+			"console.log",
+			"toggleLoading",
+			"submit",
+			"validate",
+			"subsection",
+			"devices-new",
+			"devices.html",
+			"toolti",
+			"tooltips",
+			"remove",
+			"search",
+			"indent",
+			"team-member vcard grid-4",
+			"spacing",
+			"letter",
+			"45",
+			"width",
+			"<!",
+			"app-sidebar box box-inset",
+			"products.html",
+			"products",
+			"prodcuts",
+			"organizations",
+			"organization",
+			"Organizations",
+			"<a class=\"hardware-item-more\".*?</a>",
+			"<div class=\"hardware-item-description\">.*?</div>",
+			"header",
+			".",
+			"-",
+			"hardware-item-ti",
+			"hardware-item-more",
+			"Read more &rarr;",
+			"\n              <a class=\"hardware-item-more\" href=\"hardware-item.html\">Read more &rarr;</a>",
+			"\n\n              <a class=\"hardware-item-more\" href=\"hardware-item.html\">Read more &rarr;</a>",
+			"<a class=\"hardware-item-more\" href=\"hardware-item.html\">Read more &rarr;</a>",
+			"class=\"hardware-item\"",
+			"href=\"hardware-item.html\"",
+			"<img class=\"hardware-item-image\" src=\"(.*?)\">",
+			"list-item hardware-item",
+			"hardware",
+			"transition",
+			"trigger",
+			"datastream-box",
+			"modal"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"Lato",
+			"",
+			"button-primary",
+			"",
+			"js-device-extra-toggle dropdown-arrow",
+			"device-extra",
+			"grid-4",
+			"js-device-extra-toggle",
+			"restrict-size",
+			"controlledRow",
+			"<td class=\"devices-table-tags\"><div class=\"cell-inner\">",
+			"methods.",
+			"product-devices.html",
+			"team-member vcard grid-4 clearfix",
+			"app-sidebar box box-metal",
+			"",
+			"</li>",
+			"<li>",
+			"hardware-item-more label",
+			"More Info &rarr;",
+			"",
+			"class=\"hardware-item clearfix\"",
+			"class=\"hardware-item-more\" href=\"hardware-item.html\"",
+			"<div class=\"hardware-item-image\"><img src=\"$1\"></div>",
+			"hardware-item"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"settings":
+					{
+						"buffer_size": 1444,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								903,
+								903
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "css/style.css",
+					"settings":
+					{
+						"buffer_size": 4330,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2940,
+								2940
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/CSS/CSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 1880.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "js/script.js",
+					"settings":
+					{
+						"buffer_size": 869,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								229,
+								229
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "background.js",
+					"settings":
+					{
+						"buffer_size": 1183,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								927,
+								927
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.sftp":
+	{
+		"height": 100.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"cosm",
+				"js/cosmjs-1.0.0.js"
+			],
+			[
+				"call",
+				"callback.js"
+			],
+			[
+				"button",
+				"cosmui/vendor/assets/stylesheets/cosmui/elements/_buttons.scss"
+			],
+			[
+				"buttons.js",
+				"cosmui/vendor/assets/javascripts/cosmui/cosmui.buttons.js"
+			],
+			[
+				"app-header",
+				"cosmui/vendor/assets/stylesheets/cosm-connect/layouts/_app-header.scss"
+			],
+			[
+				"box",
+				"cosmui/vendor/assets/stylesheets/cosm-connect/elements/_box.scss"
+			],
+			[
+				"organization.scss",
+				"cosmui/vendor/assets/stylesheets/cosm-connect/layouts/_organization.scss"
+			],
+			[
+				"app-sideb",
+				"cosmui/vendor/assets/stylesheets/cosm-connect/layouts/_app-sidebar.scss"
+			],
+			[
+				"app-side",
+				"cosmui/.sass-cache/ac9f6a6e44b23dc29062f41d3ac96a20cd61fde1/_app-sidebar.scssc"
+			],
+			[
+				"org",
+				"cosmui/docs/cosm-connect/organization.html"
+			],
+			[
+				"organization.s",
+				"cosmui/vendor/assets/stylesheets/cosm-connect/layouts/_organization.scss"
+			],
+			[
+				"validat",
+				"cosmui/spec/javascripts/ValidationSpec.js"
+			],
+			[
+				"buttonsspe",
+				"cosmui/spec/javascripts/ButtonsSpec.js"
+			],
+			[
+				"organiz",
+				"cosmui/docs/cosm-connect/organization.html"
+			],
+			[
+				"organization-em",
+				"cosmui/docs/cosm-connect/organization-empty.html"
+			],
+			[
+				"login.scss",
+				"cosmui/vendor/assets/stylesheets/cosm-connect/layouts/_login.scss"
+			],
+			[
+				"layouts.",
+				"cosmui/docs/layouts.html"
+			],
+			[
+				"custom-ta",
+				"cosmui/vendor/assets/stylesheets/cosm-connect/elements/_custom-table.scss"
+			],
+			[
+				"buttons.",
+				"cosmui/vendor/assets/javascripts/cosmui/cosmui.buttons.js"
+			],
+			[
+				"validation.js",
+				"cosmui/vendor/assets/javascripts/cosmui/cosmui.validation.js"
+			],
+			[
+				"lo",
+				"cosmui/docs/cosm-connect/login.html"
+			],
+			[
+				"login",
+				"connect/app/views/layouts/login.html.erb"
+			],
+			[
+				"login.html",
+				"cosmui/docs/cosm-connect/login.html"
+			],
+			[
+				"cosm-connect.js",
+				"cosmui/vendor/assets/javascripts/cosm-connect.js"
+			],
+			[
+				"or",
+				"cosmui/docs/cosm-connect/organization.html"
+			],
+			[
+				"pro",
+				"cosmui/docs/cosm-connect/product-devices.html"
+			],
+			[
+				"organiza",
+				"cosmui/docs/cosm-connect/organization.html"
+			],
+			[
+				"product-",
+				"cosmui/docs/cosm-connect/product-settings.html"
+			],
+			[
+				"app-sidebar",
+				"cosmui/vendor/assets/stylesheets/cosm-connect/layouts/_app-sidebar.scss"
+			],
+			[
+				"admin-prod",
+				"cosmui/docs/cosm-connect/admin-products.html"
+			],
+			[
+				"admin-organ",
+				"cosmui/docs/cosm-connect/admin-organizations.html"
+			],
+			[
+				"helpers.scss",
+				"cosmui/vendor/assets/stylesheets/cosmui/_helpers.scss"
+			],
+			[
+				"organ",
+				"cosmui/docs/cosm-connect/organization.html"
+			],
+			[
+				"custom-table",
+				"cosmui/vendor/assets/stylesheets/cosm-connect/elements/_custom-table.scss"
+			],
+			[
+				"dropdowns.scss",
+				"cosmui/vendor/assets/stylesheets/cosm-connect/components/_dropdowns.scss"
+			],
+			[
+				"box.scss",
+				"cosmui/vendor/assets/stylesheets/cosm-connect/elements/_box.scss"
+			],
+			[
+				"app-global.scss",
+				"cosmui/vendor/assets/stylesheets/cosm-connect/layouts/_app-global.scss"
+			],
+			[
+				"app-si",
+				"cosmui/vendor/assets/stylesheets/cosm-connect/layouts/_app-sidebar.scss"
+			],
+			[
+				"boxes.scss",
+				"cosmui/vendor/assets/stylesheets/cosm-connect/elements/_buttons-extensions.scss"
+			],
+			[
+				"forms.scss",
+				"cosmui/vendor/assets/stylesheets/cosm-connect/elements/_forms.scss"
+			],
+			[
+				"product-sett",
+				"cosmui/docs/cosm-connect/product-settings.html"
+			],
+			[
+				"product-devices-new",
+				"cosmui/docs/cosm-connect/product-devices-new.html"
+			],
+			[
+				"product-de",
+				"cosmui/docs/cosm-connect/product-devices-empty.html"
+			],
+			[
+				"app-frame",
+				"cosmui/docs/cosm-connect/app-frame.html"
+			],
+			[
+				"admin-organizations.html",
+				"cosmui/docs/cosm-connect/admin-organizations.html"
+			],
+			[
+				"organization.html",
+				"cosmui/docs/cosm-connect/organization.html"
+			],
+			[
+				"color",
+				"cosmui/vendor/assets/stylesheets/cosmui/_color-scheme.scss"
+			],
+			[
+				"organization.scs",
+				"cosmui/vendor/assets/stylesheets/cosm-connect/layouts/_organization.scss"
+			],
+			[
+				"cosm-conne",
+				"cosmui/vendor/assets/javascripts/cosm-connect.js"
+			],
+			[
+				"app-glo",
+				"cosmui/vendor/assets/stylesheets/cosm-connect/layouts/_app-global.scss"
+			],
+			[
+				"app-content",
+				"cosmui/vendor/assets/stylesheets/cosm-connect/layouts/_app-content.scss"
+			],
+			[
+				"icons",
+				"cosmui/vendor/assets/stylesheets/cosmui/elements/_icons.scss"
+			],
+			[
+				"prod",
+				"cosmui/docs/cosm-connect/product-devices.html"
+			],
+			[
+				"device-viewer",
+				"cosmui/vendor/assets/stylesheets/cosm-connect/objects/_device-viewer.scss"
+			],
+			[
+				"tables",
+				"cosmui/vendor/assets/stylesheets/cosmui/elements/_tables.scss"
+			],
+			[
+				"device-vi",
+				"cosmui/vendor/assets/stylesheets/cosm-connect/objects/_device-viewer.scss"
+			],
+			[
+				"custom-table.scss",
+				"cosmui/vendor/assets/stylesheets/cosm-connect/elements/_custom-table.scss"
+			],
+			[
+				"product",
+				"cosmui/docs/cosm-connect/product-devices.html"
+			],
+			[
+				"tab",
+				"cosmui/vendor/assets/stylesheets/cosmui/elements/_tables.scss"
+			],
+			[
+				"device-view",
+				"cosmui/vendor/assets/stylesheets/cosm-connect/objects/_device-viewer.scss"
+			],
+			[
+				"wireframes",
+				"cosmui/wireframes/device-management/devices.html"
+			],
+			[
+				"cosm-connect/elements/",
+				"cosmui/vendor/assets/stylesheets/cosm-connect/elements/_custom-table.scss"
+			],
+			[
+				"buttons-ex",
+				"cosmui/vendor/assets/stylesheets/cosm-connect/elements/_buttons-extensions.scss"
+			],
+			[
+				"buttons",
+				"cosmui/vendor/assets/stylesheets/cosmui/elements/_buttons.scss"
+			],
+			[
+				"new.h",
+				"connect/app/views/login/new.html.erb"
+			],
+			[
+				"755",
+				"cosmui/vendor/assets/stylesheets/cosmui/adaptive/_width-755.scss"
+			],
+			[
+				"615",
+				"cosmui/vendor/assets/stylesheets/cosmui/adaptive/_width-615.scss"
+			],
+			[
+				"880",
+				"cosmui/vendor/assets/stylesheets/cosmui/adaptive/_width-880.scss"
+			],
+			[
+				"520",
+				"cosmui/vendor/assets/stylesheets/cosmui/adaptive/_width-520.scss"
+			],
+			[
+				"home.scss",
+				"cosmui/vendor/assets/stylesheets/cosmui/layouts/_homepage.scss"
+			],
+			[
+				"home",
+				"airqualityegg.com/views/sass-partials/layouts/_home.scss"
+			],
+			[
+				"cosm-conn",
+				"cosmui/vendor/assets/javascripts/cosm-connect.js"
+			],
+			[
+				"login.s",
+				"cosmui/vendor/assets/stylesheets/cosm-connect/layouts/_login.scss"
+			],
+			[
+				"layouts.html",
+				"cosmui/docs/layouts.html"
+			],
+			[
+				"cosmui.js",
+				"cosmui/vendor/assets/javascripts/cosmui/cosmui.js"
+			],
+			[
+				"cosmui/spec/",
+				"cosmui/spec/javascripts/helpers/SpecHelper.js"
+			],
+			[
+				"valida",
+				"cosmui/spec/javascripts/ValidationSpec.js"
+			],
+			[
+				"cosmui/spec/javascripts/",
+				"cosmui/spec/javascripts/support/jasmine.yml"
+			],
+			[
+				"login-err",
+				"cosmui/docs/cosm-connect/login-error.html"
+			],
+			[
+				"login-er",
+				"cosmui/docs/cosm-connect/login-error.html"
+			],
+			[
+				"product-se",
+				"cosmui/docs/cosm-connect/product-settings.html"
+			],
+			[
+				"",
+				"pachweb/public/vendor/assets/javascripts/cosm-connect.js"
+			],
+			[
+				"cosmconnect",
+				"pachweb/public/vendor/assets/javascripts/cosm-connect.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/Users/pete/work/COSMUI.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 340.0,
+	"status_bar_visible": false
+}

@@ -1,0 +1,144 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Cosm Chrome</title>
+  <meta name="description" content="Cosm Feed Viewer">
+  <meta name="viewport" content="width=device-width">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  
+  <div role="main" class="app-content">
+    
+    <div id="messaging"><p id="messaging-text">authenticating ...</p> <a href='#' id="auth-again">try again &rarr;</a></div>
+
+    <section class="app-pane group closed">
+      <!-- header -->
+      <header class="app-header group">
+        <div class="app-header-top">
+
+          <!-- user name -->
+          <h1 class="user-name js-user-name font-display">petecorreia</h1>
+
+          <!-- user nav -->
+          <nav class="user-menu group font-serif">
+            <a class="active user-menu-item js-console" href="#console">Console</a>
+            <a class="user-menu-item with-bullet js-settings" href="#settings">Settings</a>
+          </nav>
+
+        </div>
+        <div class="app-header-bottom">
+
+          <!-- feeds list -->
+          <h2 class="feed-list-title font-slab">My Feeds</h2>
+
+          <ul class="feed-list">
+
+            <!-- feed list item template -->
+            <script id="feedListItem" type="text/html">
+              <li class="feed-list-item group feed-list-item-{{ id }}" data-feedid="{{ id }}">
+                <h3 class="feed-list-item-title">
+                  <a class="feed-list-item-link js-feed-list-item link-blue-dark" href="https://cosm.com/feeds/{{ id }}" data-feedid="{{ id }}">{{ title }}</a>
+                  {{^creator}}<span class="feed-list-item-delete"></span>{{/creator}}
+                </h3>
+              </li>
+            </script>
+
+          </ul>
+
+          <!-- feeds list -->
+          <h2 class="feed-list-title saved-feeds-title font-slab">Saved</h2>
+
+          <ul class="saved-feeds">
+
+            <!-- feed list item template -->
+            <script id="savedListItem" type="text/html">
+              <li class="feed-list-item group feed-list-item-{{ id }}" data-feedid="{{ id }}">
+                <h3 class="feed-list-item-title">
+                  <a class="feed-list-item-link js-feed-list-item link-blue-dark" href="https://cosm.com/feeds/{{ id }}" data-feedid="{{ id }}">{{ title }}</a>
+                  <span class="feed-list-item-delete"></span>
+                </h3>
+              </li>
+            </script>
+
+          </ul>
+
+          <form id="addSavedFeed">
+            <input class="add-saved-id" type="text" placeholder="feed ID">
+            <button type="submit" class="js-add-saved add-saved">&#10133;</button>
+          </form>
+
+        </div>
+      </header>
+      <!-- end of header -->
+
+      <!-- main content / feed content -->
+      <article class="app-main feed-content">
+
+        <!-- feed template -->
+        <script id="feed" type="text/html">
+
+          <h1 class="feed-title font-display"><a target="_blank" class="link-blue-dark" href="https://cosm.com/feeds/{{ id }}">{{ title }}</a></h1>
+
+          <!-- datastreams -->
+          <ul class="datastreams group">
+            {{#datastreams}}
+              <li class="datastream group">
+                <h2 class="datastream-id font-serif">{{ id }}</h2>
+                <p class="datastream-value color-orange">
+                  <span class="datastream-value-inner">{{ current_value }}</span>
+                  {{#unit.symbol}}<span class="datastream-unit">{{ unit.symbol }}</span>{{/unit.symbol}}
+                  <!-- {{#unit.label}}<span class="datastream-label">{{ unit.label }}</span>{{/unit.label}} -->
+                </p>
+              </li>
+            {{/datastreams}}
+            {{^datastreams}}
+              <p class="font-serif">Yawn, no datastreams on this feed!</p>
+            {{/datastreams}}
+
+          </ul>
+
+          <footer class="feed-meta group">
+            <p class="feed-updated">
+              <span class="feed-updated-aid">Last updated at </span>
+              <time class="js-feed-updated feed-updated-time timeago" datetime="{{ updated }}">{{ updated }}</time>
+            </p>
+
+            <a target="_blank" class="feed-link" href="https://cosm.com/feeds/{{ id }}">View on Cosm &rarr;</a>
+          </footer>
+
+        </script>
+
+        <!-- datastream value template -->
+        <script id="datastreamValue" type="text/html">
+          <span class="datastream-value-inner">{{ current_value }}</span>
+          {{#unit.symbol}}<span class="datastream-unit">{{ unit.symbol }}</span>{{/unit.symbol}}
+          <!-- {{#unit.label}}<span class="datastream-label">{{ unit.label }}</span>{{/unit.label}} -->
+        </script>
+
+      </article>
+      <!-- end of main content / feed content -->
+
+      <!-- settings -->
+      <article class="app-main settings-content closed">
+
+        <h1 class="settings-title font-display">Settings</h1>
+
+        <h2>Account</h2>
+        <a href="#" class="js-unauth icon icon-logout">Sign Out / Change Account &rarr;</a>
+        <small class="settings-help color-blue">Authorize with a different account</small>
+
+
+      </article>
+
+    </section>
+
+  </div>
+
+  <script type="text/javascript" src="js/jquery.min.js"></script>
+  <script type="text/javascript" src="js/icanhaz.min.js"></script>
+  <script type="text/javascript" src="js/cosmjs-1.0.0.min.js"></script>
+  <script type="text/javascript" src="js/script.js"></script>
+</body>
+</html>

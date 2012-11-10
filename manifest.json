@@ -1,0 +1,28 @@
+{
+  "name": "Cosm Chrome",
+  "description": "Easily view your feeds.",
+  "manifest_version": 2,
+  "version": "1.0.1",
+  "offline_enabled": true,
+  "app": {
+    "launch": {
+      "local_path": "index.html"
+    }
+  },
+  "permissions": [
+    "storage",
+    "tabs", 
+    "http://api.cosm.com/v2/feeds/*",
+    "https://cosm.com/oauth/token",
+    "https://cosm.com/oauth/authenticate"
+  ],
+  "icons": {
+    "16": "img/icon16.png",
+    "128": "img/icon128.png"
+  },
+  "background": {
+    "scripts": [
+      "background.js"
+    ]
+  }
+}
