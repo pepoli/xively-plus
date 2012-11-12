@@ -2,10 +2,10 @@
 <html lang="en">
 <head>
   <meta charset="utf-8">
-  <title>Cosm Chrome</title>
+  <title>Cosm+</title>
   <meta name="description" content="Cosm Feed Viewer">
   <meta name="viewport" content="width=device-width">
-  <link rel="stylesheet" href="css/style.css">
+  <link rel="stylesheet" href="/css/style.css">
 </head>
 <body>
   
@@ -65,7 +65,7 @@
           </ul>
 
           <form id="addSavedFeed">
-            <input class="add-saved-id" type="text" placeholder="feed ID">
+            <input class="add-saved-id" name="feed-id" type="text" placeholder="feed ID">
             <button type="submit" class="js-add-saved add-saved">&#10133;</button>
           </form>
 
@@ -121,7 +121,7 @@
       <!-- end of main content / feed content -->
 
       <!-- settings -->
-      <article class="app-main settings-content closed">
+      <article class="app-main settings-content">
 
         <h1 class="settings-title font-display">Settings</h1>
 
@@ -136,9 +136,23 @@
 
   </div>
 
-  <script type="text/javascript" src="js/jquery.min.js"></script>
-  <script type="text/javascript" src="js/icanhaz.min.js"></script>
-  <script type="text/javascript" src="js/cosmjs-1.0.0.min.js"></script>
-  <script type="text/javascript" src="js/script.js"></script>
+  <!-- prod -->
+
+  <script type="text/javascript" src="/js/bundle.min.js"></script>  
+
+  <!-- dev -->
+<!-- 
+  <script type="text/javascript" src="/js/jquery.min.js"></script>
+  <script type="text/javascript" src="/js/icanhaz.min.js"></script>
+  <script type="text/javascript" src="/js/cosmjs-1.0.0.min.js"></script>
+  
+  <script type="text/javascript" src="/js/app.core.js"></script>
+  <script type="text/javascript" src="/js/app.feed.js"></script>
+  <script type="text/javascript" src="/js/app.feeds.js"></script>
+  <script type="text/javascript" src="/js/app.views.js"></script>
+  <script type="text/javascript" src="/js/app.auth.js"></script>
+  <script type="text/javascript" src="/js/app.events.js"></script>
+  <script type="text/javascript" src="/js/app.js"></script>
+   -->
 </body>
 </html>

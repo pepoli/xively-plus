@@ -1,27 +1,21 @@
 {
-  "name": "Cosm Chrome",
-  "description": "Easily view your feeds.",
+  "name": "Cosm+",
+  "description": "Unofficial Cosm app for Chrome",
   "manifest_version": 2,
-  "version": "1.0.0",
+  "version": "0.0.0.4",
   "app": {
     "launch": {
       "local_path": "index.html"
     }
   },
   "permissions": [
-    "storage",
-    "tabs", 
-    "http://api.cosm.com/v2/feeds/*",
-    "https://cosm.com/oauth/token",
-    "https://cosm.com/oauth/authenticate"
+    "storage"
   ],
   "icons": {
     "16": "img/icon16.png",
+    "24": "img/icon24.png",
+    "32": "img/icon32.png",
+    "112": "img/icon112.png",
     "128": "img/icon128.png"
-  },
-  "background": {
-    "scripts": [
-      "background.js"
-    ]
   }
 }
