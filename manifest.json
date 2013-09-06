@@ -1,8 +1,8 @@
 {
-  "name": "Cosm+",
-  "description": "Unofficial Cosm app for Chrome",
+  "name": "Xively+",
+  "description": "Easy access to your, and any, devices with live updating values.",
   "manifest_version": 2,
-  "version": "0.0.0.4",
+  "version": "1.0.0",
   "app": {
     "launch": {
       "local_path": "index.html"

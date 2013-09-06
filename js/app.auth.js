@@ -7,7 +7,7 @@ app.auth = window.app.auth || {};
 // ------------------------------------------
 // DEV AUTH
 
-app.auth.dev = true;
+app.auth.dev = false;
 
 
 // ------------------------------------------
@@ -16,6 +16,8 @@ app.auth.dev = true;
 app.auth.init = function ( callback ) {
 
   // check if it's returning from oauth redirect
+
+  //return false;
 
   if ( location.search !== "" ) {
     function getURLParameter(name) {
