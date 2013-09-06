@@ -67,7 +67,7 @@ app.reset = function ( callback ) {
 
   // Reset user name
 
-  $(".js-user-name").html("Cosm");
+  $(".js-user-name").html("Xively");
 
   app.feed.list = [];
   app.feed.saved = [];

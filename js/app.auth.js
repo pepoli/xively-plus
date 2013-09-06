@@ -7,7 +7,7 @@ app.auth = window.app.auth || {};
 // ------------------------------------------
 // DEV AUTH
 
-app.auth.dev = false;
+app.auth.dev = true;
 
 
 // ------------------------------------------
@@ -53,10 +53,10 @@ app.auth.init = function ( callback ) {
 
     else {
       if ( app.auth.dev ) {
-        window.location = "https://cosm.com/oauth/authenticate?client_id=04ed42f8a59dde98a754";
+        window.location = "https://xively.com/oauth/authenticate?client_id=04ed42f8a59dde98a754";
       }
       else {
-        window.location = "https://cosm.com/oauth/authenticate?client_id=523e262d8173461e52f1";
+        window.location = "https://xively.com/oauth/authenticate?client_id=523e262d8173461e52f1";
       }      
     }
 

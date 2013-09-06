@@ -7,13 +7,13 @@ app.auth.init( function ( auth ) {
 
   $("#messaging-text").html("loading ...");
 
-  // Set API key on CosmJS
+  // Set API key on XivelyJS
 
-  cosm.setKey( auth.token );
+  xively.setKey( auth.token );
 
   // Fetch user's feeds
 
-  cosm.feed.list({ user: auth.user }, function ( data ) {
+  xively.feed.list({ user: auth.user }, function ( data ) {
 
     // Process feeds
 

@@ -28,7 +28,7 @@ app.feeds.process = function ( data, callback ) {
   // Error if no feeds, we don't support fake users
 
   if ( !app.feed.list || !app.feed.list.length ) {
-    $("#messaging-text").html("cosm says no feeds, we got a problem!");
+    $("#messaging-text").html("Xively says no feeds, we got a problem!");
     return false;
   }
 

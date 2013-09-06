@@ -2,8 +2,8 @@
 <html lang="en">
 <head>
   <meta charset="utf-8">
-  <title>Cosm+</title>
-  <meta name="description" content="Cosm Feed Viewer">
+  <title>Xively+</title>
+  <meta name="description" content="Xively+ - Easy access to your Xively devices">
   <meta name="viewport" content="width=device-width">
   <link rel="stylesheet" href="/css/style.css">
 </head>
@@ -39,7 +39,7 @@
             <script id="feedListItem" type="text/html">
               <li class="feed-list-item group feed-list-item-{{ id }}" data-feedid="{{ id }}">
                 <h3 class="feed-list-item-title">
-                  <a class="feed-list-item-link js-feed-list-item link-blue-dark" href="https://cosm.com/feeds/{{ id }}" data-feedid="{{ id }}">{{ title }}</a>
+                  <a class="feed-list-item-link js-feed-list-item link-blue-dark" href="https://xively.com/feeds/{{ id }}" data-feedid="{{ id }}">{{ title }}</a>
                   {{^creator}}<span class="feed-list-item-delete"></span>{{/creator}}
                 </h3>
               </li>
@@ -56,7 +56,7 @@
             <script id="savedListItem" type="text/html">
               <li class="feed-list-item group feed-list-item-{{ id }}" data-feedid="{{ id }}">
                 <h3 class="feed-list-item-title">
-                  <a class="feed-list-item-link js-feed-list-item link-blue-dark" href="https://cosm.com/feeds/{{ id }}" data-feedid="{{ id }}">{{ title }}</a>
+                  <a class="feed-list-item-link js-feed-list-item link-blue-dark" href="https://xively.com/feeds/{{ id }}" data-feedid="{{ id }}">{{ title }}</a>
                   <span class="feed-list-item-delete"></span>
                 </h3>
               </li>
@@ -79,7 +79,7 @@
         <!-- feed template -->
         <script id="feed" type="text/html">
 
-          <h1 class="feed-title font-display"><a target="_blank" class="link-blue-dark" href="https://cosm.com/feeds/{{ id }}">{{ title }}</a></h1>
+          <h1 class="feed-title font-display"><a target="_blank" class="link-blue-dark" href="https://xively.com/feeds/{{ id }}">{{ title }}</a></h1>
 
           <!-- datastreams -->
           <ul class="datastreams group">
@@ -105,7 +105,7 @@
               <time class="js-feed-updated feed-updated-time timeago" datetime="{{ updated }}">{{ updated }}</time>
             </p>
 
-            <a target="_blank" class="feed-link" href="https://cosm.com/feeds/{{ id }}">View on Cosm &rarr;</a>
+            <a target="_blank" class="feed-link" href="https://xively.com/feeds/{{ id }}">View on Xively &rarr;</a>
           </footer>
 
         </script>
@@ -137,14 +137,14 @@
   </div>
 
   <!-- prod -->
-
-  <script type="text/javascript" src="/js/bundle.min.js"></script>  
-
-  <!-- dev -->
 <!-- 
+  <script type="text/javascript" src="/js/bundle.min.js"></script>  
+ -->
+  <!-- dev -->
+
   <script type="text/javascript" src="/js/jquery.min.js"></script>
   <script type="text/javascript" src="/js/icanhaz.min.js"></script>
-  <script type="text/javascript" src="/js/cosmjs-1.0.0.min.js"></script>
+  <script type="text/javascript" src="/js/xivelyjs-1.0.4.min.js"></script>
   
   <script type="text/javascript" src="/js/app.core.js"></script>
   <script type="text/javascript" src="/js/app.feed.js"></script>
@@ -153,6 +153,6 @@
   <script type="text/javascript" src="/js/app.auth.js"></script>
   <script type="text/javascript" src="/js/app.events.js"></script>
   <script type="text/javascript" src="/js/app.js"></script>
-   -->
+  
 </body>
 </html>

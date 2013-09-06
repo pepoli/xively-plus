@@ -91,7 +91,10 @@ app.events.list.push({
         app.auth.data = false;
 
         // reload to initiate again
-        location.reload();
+        window.setTimeout(function(){
+          location.reload();  
+        }, 1000);
+        
       });
     });
   },

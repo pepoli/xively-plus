@@ -18,9 +18,9 @@ app.feed.get = function ( feedID, callback ) {
     }
   }
 
-  // Not in cache, get it from Cosm
+  // Not in cache, get it from Xively
 
-  callback && cosm.feed.get( feedID, callback );
+  callback && xively.feed.get( feedID, callback );
 };
 
 
@@ -99,7 +99,7 @@ app.feed.show = function ( feed, fetch ) {
 
   // Unsubscribe feed in view
 
-  cosm.feed.unsubscribe ( currentID );
+  xively.feed.unsubscribe ( currentID );
 
   // Update active feed in feed list
 
@@ -120,7 +120,7 @@ app.feed.show = function ( feed, fetch ) {
 
   // Subscribe to updates on new feed
 
-  cosm.feed.subscribe ( feed.id , app.feed.update );
+  xively.feed.subscribe ( feed.id , app.feed.update );
 
   // Save as last open
 
@@ -217,7 +217,7 @@ app.feed.addSaved = function ( event ) {
 
   // Get new feed
 
-  cosm.feed.get( newFeedID, function ( feed ) {
+  xively.feed.get( newFeedID, function ( feed ) {
 
     // Append new content and set event
 
